@@ -24,7 +24,7 @@ class bootstrap
         $url = explode("/", $_SERVER['QUERY_STRING']);
 
         //controller
-        $this->controller = !empty($url[0]) ? $url[0] : "home";
+        $this->controller = !empty($url[0]) ? $url[0] : "index";
         // echo $this->controller;die;       // this line for debugging
 
         //method

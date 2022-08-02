@@ -201,7 +201,7 @@
                             </div>
                             <ul class="navbar-nav ms-auto">
                                 <li class="nav-item  has-dropdown">
-                                    <a href="./index.php" class="nav-link active">
+                                    <a href="./index.php" class="nav-link">
                                         Home
 
                                     </a>
@@ -221,116 +221,13 @@
 
                                 </li>
                                 <li class="nav-item has-dropdown">
-                                    <a href="#" class="nav-link">
-                                        Pages
-                                        <i class="ri-arrow-down-s-line"></i>
+                                    <a href="transactions" class="nav-link">
+                                        Transactions
+
                                     </a>
-                                    <ul class="dropdown-menu">
-                                        <li class="nav-item">
-                                            <a href="#" class="nav-link">
-                                                Project
-                                                <i class="ri-arrow-down-s-line"></i>
-                                            </a>
-                                            <ul class="dropdown-menu">
-                                                <li class="nav-item">
-                                                    <a href="raxa/project.html" class="nav-link">Our Project</a>
-                                                </li>
-                                                <li class="nav-item">
-                                                    <a href="raxa/project-details.html" class="nav-link">Single Project</a>
-                                                </li>
-                                            </ul>
-                                        </li>
-                                        <li class="nav-item">
-                                            <a href="raxa/team.html" class="nav-link">Our Team</a>
-                                        </li>
-                                        <li class="nav-item">
-                                            <a href="raxa/open-account.html" class="nav-link">Open Account</a>
-                                        </li>
-                                        <li class="nav-item">
-                                            <a href="raxa/apply-loan.html" class="nav-link">Apply Loan</a>
-                                        </li>
-                                        <li class="nav-item">
-                                            <a href="raxa/pricing.html" class="nav-link">Pricing Plan</a>
-                                        </li>
-                                        <li class="nav-item">
-                                            <a href="raxa/faq.html" class="nav-link">FAQ</a>
-                                        </li>
-                                        <li class="nav-item">
-                                            <a href="raxa/testimonials.html" class="nav-link">Testimonials</a>
-                                        </li>
-                                        <li class="nav-item">
-                                            <a href="#" class="nav-link">
-                                                User Pages
-                                                <i class="ri-arrow-down-s-line"></i>
-                                            </a>
-                                            <ul class="dropdown-menu">
-                                                <li class="nav-item">
-                                                    <a href="raxa/my-account.html" class="nav-link">My Account</a>
-                                                </li>
-                                                <li class="nav-item">
-                                                    <a href="raxa/login.html" class="nav-link">Login</a>
-                                                </li>
-                                                <li class="nav-item">
-                                                    <a href="raxa/register.html" class="nav-link">Register</a>
-                                                </li>
-                                                <li class="nav-item">
-                                                    <a href="raxa/recover-password.html" class="nav-link">Recover Password</a>
-                                                </li>
-                                            </ul>
-                                        </li>
-                                        <li class="nav-item">
-                                            <a href="raxa/terms-of-service.html" class="nav-link">Terms of Service</a>
-                                        </li>
-                                        <li class="nav-item">
-                                            <a href="raxa/privacy-policy.html" class="nav-link">Privacy Policy</a>
-                                        </li>
-                                        <li class="nav-item">
-                                            <a href="raxa/error-404.html" class="nav-link">404 Error Page</a>
-                                        </li>
-                                    </ul>
+
                                 </li>
-                                <li class="nav-item has-dropdown">
-                                    <a href="#" class="nav-link">
-                                        Blog
-                                        <i class="ri-arrow-down-s-line"></i>
-                                    </a>
-                                    <ul class="dropdown-menu">
-                                        <li class="nav-item">
-                                            <a href="#" class="nav-link">
-                                                Blog Layout
-                                                <i class="ri-arrow-down-s-line"></i>
-                                            </a>
-                                            <ul class="dropdown-menu">
-                                                <li class="nav-item">
-                                                    <a href="raxa/blog-no-sidebar.html" class="nav-link">Blog Grid</a>
-                                                </li>
-                                                <li class="nav-item">
-                                                    <a href="raxa/blog-left-sidebar.html" class="nav-link">Blog Left Sidebar</a>
-                                                </li>
-                                                <li class="nav-item">
-                                                    <a href="raxa/blog-right-sidebar.html" class="nav-link">Blog Right Sidebar</a>
-                                                </li>
-                                            </ul>
-                                        </li>
-                                        <li class="nav-item">
-                                            <a href="#" class="nav-link">
-                                                Single Blog
-                                                <i class="ri-arrow-down-s-line"></i>
-                                            </a>
-                                            <ul class="dropdown-menu">
-                                                <li class="nav-item">
-                                                    <a href="raxa/blog-details-no-sidebar.html" class="nav-link">Blog Details No Sidebar</a>
-                                                </li>
-                                                <li class="nav-item">
-                                                    <a href="raxa/blog-details-left-sidebar.html" class="nav-link">Blog Details Left Sidebar</a>
-                                                </li>
-                                                <li class="nav-item">
-                                                    <a href="raxa/blog-details-right-sidebar.html" class="nav-link">Blog Details Right Sidebar</a>
-                                                </li>
-                                            </ul>
-                                        </li>
-                                    </ul>
-                                </li>
+
                                 <li class="nav-item">
                                     <a href="raxa/contact.html" class="nav-link">Contact Us</a>
                                 </li>
@@ -426,7 +323,7 @@
                                 </div>
                                 <ul class="navbar-nav ms-auto">
                                     <li class="nav-item  has-dropdown">
-                                        <a href="index" class="nav-link active">
+                                        <a href="index" class="nav-link">
                                             Home
 
                                         </a>
@@ -446,116 +343,13 @@
 
                                     </li>
                                     <li class="nav-item has-dropdown">
-                                        <a href="#" class="nav-link">
-                                            Pages
-                                            <i class="ri-arrow-down-s-line"></i>
+                                        <a href="transactions" class="nav-link">
+                                            Transactions
+
                                         </a>
-                                        <ul class="dropdown-menu">
-                                            <li class="nav-item">
-                                                <a href="#" class="nav-link">
-                                                    Project
-                                                    <i class="ri-arrow-down-s-line"></i>
-                                                </a>
-                                                <ul class="dropdown-menu">
-                                                    <li class="nav-item">
-                                                        <a href="raxa/project.html" class="nav-link">Our Project</a>
-                                                    </li>
-                                                    <li class="nav-item">
-                                                        <a href="raxa/project-details.html" class="nav-link">Single Project</a>
-                                                    </li>
-                                                </ul>
-                                            </li>
-                                            <li class="nav-item">
-                                                <a href="raxa/team.html" class="nav-link">Our Team</a>
-                                            </li>
-                                            <li class="nav-item">
-                                                <a href="raxa/open-account.html" class="nav-link">Open Account</a>
-                                            </li>
-                                            <li class="nav-item">
-                                                <a href="raxa/apply-loan.html" class="nav-link">Apply Loan</a>
-                                            </li>
-                                            <li class="nav-item">
-                                                <a href="raxa/pricing.html" class="nav-link">Pricing Plan</a>
-                                            </li>
-                                            <li class="nav-item">
-                                                <a href="raxa/faq.html" class="nav-link">FAQ</a>
-                                            </li>
-                                            <li class="nav-item">
-                                                <a href="raxa/testimonials.html" class="nav-link">Testimonials</a>
-                                            </li>
-                                            <li class="nav-item">
-                                                <a href="#" class="nav-link">
-                                                    User Pages
-                                                    <i class="ri-arrow-down-s-line"></i>
-                                                </a>
-                                                <ul class="dropdown-menu">
-                                                    <li class="nav-item">
-                                                        <a href="raxa/my-account.html" class="nav-link">My Account</a>
-                                                    </li>
-                                                    <li class="nav-item">
-                                                        <a href="raxa/login.html" class="nav-link">Login</a>
-                                                    </li>
-                                                    <li class="nav-item">
-                                                        <a href="raxa/register.html" class="nav-link">Register</a>
-                                                    </li>
-                                                    <li class="nav-item">
-                                                        <a href="raxa/recover-password.html" class="nav-link">Recover Password</a>
-                                                    </li>
-                                                </ul>
-                                            </li>
-                                            <li class="nav-item">
-                                                <a href="raxa/terms-of-service.html" class="nav-link">Terms of Service</a>
-                                            </li>
-                                            <li class="nav-item">
-                                                <a href="raxa/privacy-policy.html" class="nav-link">Privacy Policy</a>
-                                            </li>
-                                            <li class="nav-item">
-                                                <a href="raxa/error-404.html" class="nav-link">404 Error Page</a>
-                                            </li>
-                                        </ul>
+
                                     </li>
-                                    <li class="nav-item has-dropdown">
-                                        <a href="#" class="nav-link">
-                                            Blog
-                                            <i class="ri-arrow-down-s-line"></i>
-                                        </a>
-                                        <ul class="dropdown-menu">
-                                            <li class="nav-item">
-                                                <a href="#" class="nav-link">
-                                                    Blog Layout
-                                                    <i class="ri-arrow-down-s-line"></i>
-                                                </a>
-                                                <ul class="dropdown-menu">
-                                                    <li class="nav-item">
-                                                        <a href="raxa/blog-no-sidebar.html" class="nav-link">Blog Grid</a>
-                                                    </li>
-                                                    <li class="nav-item">
-                                                        <a href="raxa/blog-left-sidebar.html" class="nav-link">Blog Left Sidebar</a>
-                                                    </li>
-                                                    <li class="nav-item">
-                                                        <a href="raxa/blog-right-sidebar.html" class="nav-link">Blog Right Sidebar</a>
-                                                    </li>
-                                                </ul>
-                                            </li>
-                                            <li class="nav-item">
-                                                <a href="#" class="nav-link">
-                                                    Single Blog
-                                                    <i class="ri-arrow-down-s-line"></i>
-                                                </a>
-                                                <ul class="dropdown-menu">
-                                                    <li class="nav-item">
-                                                        <a href="raxa/blog-details-no-sidebar.html" class="nav-link">Blog Details No Sidebar</a>
-                                                    </li>
-                                                    <li class="nav-item">
-                                                        <a href="raxa/blog-details-left-sidebar.html" class="nav-link">Blog Details Left Sidebar</a>
-                                                    </li>
-                                                    <li class="nav-item">
-                                                        <a href="raxa/blog-details-right-sidebar.html" class="nav-link">Blog Details Right Sidebar</a>
-                                                    </li>
-                                                </ul>
-                                            </li>
-                                        </ul>
-                                    </li>
+
                                     <li class="nav-item">
                                         <a href="raxa/contact.html" class="nav-link">Contact Us</a>
                                     </li>

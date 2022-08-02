@@ -345,7 +345,7 @@
                                         </a>
 
                                     </li>
-                                    =
+
                                     <li class="nav-item">
                                         <a href="raxa/contact.html" class="nav-link">Contact Us</a>
                                     </li>
@@ -405,10 +405,10 @@
                             <table>
                                 <thead>
                                     <tr class="table100-head">
-                                        <th class="column1">ID</th>
-                                        <th class="column2">Name</th>
-                                        <th class="column3">Email</th>
-                                        <th class="column4">Balance</th>
+                                        <th class="column1">From</th>
+                                        <th class="column2">To</th>
+                                        <th class="column3">Amount</th>
+                                        <th class="column4">Date</th>
                                         <th class="column6">Details</th>
                                     </tr>
                                 </thead>
